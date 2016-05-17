@@ -29,7 +29,7 @@
 		font-weight: 400;
 		line-height: 24px;
 		text-align: left;
-		border: #eee solid 1px;
+		border: 1px solid #eee;
 	}
 	.contacts {
 		background-color: #c3c1c1;
